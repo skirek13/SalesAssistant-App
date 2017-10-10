@@ -1,0 +1,35 @@
+﻿
+
+[ Krótki Opis ]
+
+Aplikacja biznesowa pomagająca w sprzedaży, zamówieniu zakupu, zarządzaniu zapasami, przeglądowi klientów, planowaniu spotkań i zadań.
+Program jest przeznaczona między innymi dla kierownictwa działów handlowych oraz dla właścicieli sklepów. Ma ona na celu zorganizowanie i przyszpieszenie pracy, a także przede wszystkim jej ułatwienie. 
+
+
+
+
+Wymagania 
+
+1. Przechowywanie:
+- bazy kontrahentów handlowych (dostawców i odbiorców, a także prospektów handlowych). Możliwość ich dodawania, usuwania i edytowania. 
+- bazy produktów, zapasów. Ich dodawanie, usuwanie indeksów. Zarządanie ich ilością. 
+- bazy zleceń sprzedaży, zamówień zakupu, ofert. Możliwość ich wprowadzania, edycji, usuwania. 
+- planu spotkań i zadań. Możliwość powiązania ich z danym kontrahentem. Przypomnienia o nadchodzącym spotkaniu i zadaniu. 
+
+2. Raportowanie przechowywanych informacji. 
+
+3. Możliwość stworzenia systemu przypomnień o nadchodzących zdarzeniach. Np. gdy ilość mag. danego produktu jest mniejsza niż x - przypomnij o zamówiniu zakupu. Powyżej ^ : Nadchodzące spotkanie. 
+
+4. Wysyłanie maili z poziomu aplikacji. Mail może być generowany na podstawie stworzonego zamówienia zakupu, zleceniu sprzedaży etc. 
+
+
+
+
+
+[ Wymagania dodatkowe opcjonalne ] 
+
+- Połączenie się z google drive lub dropboxem w celu przechowywania danych w chmurze. Możliwość synchronizacji danych na wielu urządzeniach. 
+- Raporty, w których znajdą się wykresy i analizy ostatnich aktywności. 
+- System lokalizacji GPS , w którym znajdą się ostatnio odwiedzone miejsca z możliwością dodania opisu i powiązania z zadaniem lub spotkaniem. 
+
+
